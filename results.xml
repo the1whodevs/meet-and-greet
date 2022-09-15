@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="3" result="Passed" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2022-09-14 17:55:49Z" end-time="2022-09-14 17:55:50Z" duration="1,2164102">
+  <test-suite type="TestSuite" id="1000" name="UnitTesting" fullname="UnitTesting" runstate="Runnable" testcasecount="3" result="Passed" start-time="2022-09-14 17:55:49Z" end-time="2022-09-14 17:55:50Z" duration="1.216410" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties />
+    <test-suite type="Assembly" id="1006" name="PlayModeTests.dll" fullname="C:/Users/xmymo/Documents/Personal/Projects/UnitTesting/Library/ScriptAssemblies/PlayModeTests.dll" runstate="Runnable" testcasecount="3" result="Passed" start-time="2022-09-14 17:55:49Z" end-time="2022-09-14 17:55:50Z" duration="1.100421" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="35316" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="PlayMode" />
+      </properties>
+      <test-suite type="TestFixture" id="1001" name="GravityManagerTests" fullname="GravityManagerTests" classname="GravityManagerTests" runstate="Runnable" testcasecount="1" result="Passed" start-time="2022-09-14 17:55:49Z" end-time="2022-09-14 17:55:49Z" duration="0.046074" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-case id="1002" name="TestGravityManager" fullname="GravityManagerTests.TestGravityManager" methodname="TestGravityManager" classname="GravityManagerTests" runstate="Runnable" seed="578054140" result="Passed" start-time="2022-09-14 17:55:49Z" end-time="2022-09-14 17:55:49Z" duration="0.028388" asserts="0">
+          <properties>
+            <property name="_JOINTYPE" value="UnityCombinatorial" />
+          </properties>
+        </test-case>
+      </test-suite>
+      <test-suite type="TestFixture" id="1003" name="PlayerBodyTests" fullname="PlayerBodyTests" classname="PlayerBodyTests" runstate="Runnable" testcasecount="2" result="Passed" start-time="2022-09-14 17:55:49Z" end-time="2022-09-14 17:55:50Z" duration="1.047394" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-case id="1005" name="PlayerBodyTestMaxSpeed" fullname="PlayerBodyTests.PlayerBodyTestMaxSpeed" methodname="PlayerBodyTestMaxSpeed" classname="PlayerBodyTests" runstate="Runnable" seed="203784437" result="Passed" start-time="2022-09-14 17:55:49Z" end-time="2022-09-14 17:55:50Z" duration="1.031411" asserts="0">
+          <properties>
+            <property name="_JOINTYPE" value="UnityCombinatorial" />
+          </properties>
+        </test-case>
+        <test-case id="1004" name="PlayerBodyTestRigidbody" fullname="PlayerBodyTests.PlayerBodyTestRigidbody" methodname="PlayerBodyTestRigidbody" classname="PlayerBodyTests" runstate="Runnable" seed="1570526502" result="Passed" start-time="2022-09-14 17:55:50Z" end-time="2022-09-14 17:55:50Z" duration="0.013290" asserts="0">
+          <properties>
+            <property name="_JOINTYPE" value="UnityCombinatorial" />
+          </properties>
+        </test-case>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
